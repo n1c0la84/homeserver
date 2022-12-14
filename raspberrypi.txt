@@ -1,6 +1,6 @@
-ssh: pi/Mapslyla1
-omv: admin/Mapslyla1
-ha: nicola/Mapslyla1
+ssh: pi/M********
+omv: admin/M********
+ha: nicola/M********
 portainer: admin/openmediavault
 
 omv native
