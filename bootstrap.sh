@@ -26,4 +26,4 @@ read -rsp $'\nBuilding containers. Press enter to continue...\n' -n1 key
 git clone https://github.com/n1c0la84/homeserver.git
 cd homeserver
 
-docker compose up --detach
+docker-compose up --detach
